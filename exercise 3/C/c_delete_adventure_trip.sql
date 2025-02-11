@@ -1,0 +1,2 @@
+-- (c) Delete the ADVENTURE_TRIP Table
+DROP TABLE ADVENTURE_TRIP;
